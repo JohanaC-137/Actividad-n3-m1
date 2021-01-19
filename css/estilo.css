@@ -1,0 +1,79 @@
+*{box-sizing: border-box;}
+*{margin:0%; padding:0%;}
+
+html{background-color: antiquewhite;
+
+padding-bottom: 100px;
+border-bottom-width: 100px;
+border-top-width: 100px;
+padding-top: 100px;}
+
+body{font-family: 'Montserrat Alternates', sans-serif;
+    font-size: px;
+    width: 750px;
+    height: 750; 
+    margin:auto;
+    background-color: rgba(222, 184, 135, 0.517);
+    }
+
+h1{font-family: 'Montserrat Alternates', sans-serif;
+    margin:20px ;
+    padding: 40px;
+    font-size: 40px;
+    font-weight:200;
+    height:100px;
+    width: 95%;
+    text-align: center;}
+
+hr{color-adjust:rgb(9, 159, 240);
+    margin:2px ;
+    padding: 4px;}
+  
+
+h3{color:rgb(9, 159, 240); 
+    font-family: 'Montserrat Alternates', sans-serif;
+    height:50px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;} 
+
+img{width: 500px;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;}
+    
+P {color:rgb(0, 0, 0); 
+    font-size:10px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    height:200px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;}
+
+li{color:rgb(9, 159, 240); 
+    font-family: 'Montserrat Alternates', sans-serif;
+    height:50px;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;}
+
+header{width: 740px;
+    height: 740; 
+    margin:auto;
+    background-image: href("img/playa.jpg");}
+
+
+
+
+
+
+
+
+
+
+
+ 
